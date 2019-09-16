@@ -13,6 +13,7 @@ div#wall #tag-3.slick.wicked {
 div#wall div.parent #tag-5.slick {
     background: none;
 }
-div#wall > div.parent div:last-child > div#tag-6 {
+body div#wall div.parent div:last-child div#tag-6 {
     background: none;
 }
+body div#wall div.parent div > #tag-7.slick
